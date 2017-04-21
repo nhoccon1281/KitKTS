@@ -39,12 +39,12 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=01-Breadboard.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-1
 AnnotateScope=All
-AnnotateOrder=17
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -56,12 +56,12 @@ DocumentUniqueId=GXQOSQYY
 
 [Document2]
 DocumentPath=02-PowerSupply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-2
 AnnotateScope=All
-AnnotateOrder=18
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,12 +73,12 @@ DocumentUniqueId=SOEUCKYV
 
 [Document3]
 DocumentPath=03-PulseGenerator.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-3
 AnnotateScope=All
-AnnotateOrder=19
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,12 +90,12 @@ DocumentUniqueId=CCQIHSLA
 
 [Document4]
 DocumentPath=04-LogicAND.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-4
 AnnotateScope=All
-AnnotateOrder=21
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -107,12 +107,12 @@ DocumentUniqueId=FTRBABAX
 
 [Document5]
 DocumentPath=04-ANDStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-4
 AnnotateScope=All
-AnnotateOrder=20
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -124,12 +124,12 @@ DocumentUniqueId=FAKUCMWO
 
 [Document6]
 DocumentPath=05-LogicOR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-5
 AnnotateScope=All
-AnnotateOrder=22
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -141,12 +141,12 @@ DocumentUniqueId=QHPPXMRH
 
 [Document7]
 DocumentPath=05-ORStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-5
 AnnotateScope=All
-AnnotateOrder=23
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -158,12 +158,12 @@ DocumentUniqueId=XUAROPSL
 
 [Document8]
 DocumentPath=06-LogicNOT.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-6
 AnnotateScope=All
-AnnotateOrder=16
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -175,12 +175,12 @@ DocumentUniqueId=XWAJCKFC
 
 [Document9]
 DocumentPath=06-NOTStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-6
 AnnotateScope=All
-AnnotateOrder=24
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -192,12 +192,12 @@ DocumentUniqueId=YHKDSBRJ
 
 [Document10]
 DocumentPath=07-LogicXOR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-7
 AnnotateScope=All
-AnnotateOrder=7
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -209,12 +209,12 @@ DocumentUniqueId=HYEHWEFN
 
 [Document11]
 DocumentPath=07-XORStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-7
 AnnotateScope=All
-AnnotateOrder=25
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -226,12 +226,12 @@ DocumentUniqueId=UPRONUWO
 
 [Document12]
 DocumentPath=08-LogicNAND.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-8
 AnnotateScope=All
-AnnotateOrder=26
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -243,12 +243,12 @@ DocumentUniqueId=PLVITCTY
 
 [Document13]
 DocumentPath=08-NANDStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-8
 AnnotateScope=All
-AnnotateOrder=27
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -260,12 +260,12 @@ DocumentUniqueId=OLLCPCPQ
 
 [Document14]
 DocumentPath=09-LogicNOR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-9
 AnnotateScope=All
-AnnotateOrder=28
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -277,12 +277,12 @@ DocumentUniqueId=XFQCWWAD
 
 [Document15]
 DocumentPath=09-NORStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-9
 AnnotateScope=All
-AnnotateOrder=29
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -294,12 +294,12 @@ DocumentUniqueId=MQLOQMJV
 
 [Document16]
 DocumentPath=10-Buffer.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-10
 AnnotateScope=All
-AnnotateOrder=30
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -311,12 +311,12 @@ DocumentUniqueId=TRGYVNQI
 
 [Document17]
 DocumentPath=11-DFlipFlop.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-11
 AnnotateScope=All
-AnnotateOrder=13
+AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -328,12 +328,12 @@ DocumentUniqueId=PMBLAFHP
 
 [Document18]
 DocumentPath=12-JKFlipFlop.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-12
 AnnotateScope=All
-AnnotateOrder=15
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -345,12 +345,12 @@ DocumentUniqueId=OYMQPCPJ
 
 [Document19]
 DocumentPath=13-Counter74LS90.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-13
 AnnotateScope=All
-AnnotateOrder=14
+AnnotateOrder=18
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -362,12 +362,12 @@ DocumentUniqueId=QCHKBNLS
 
 [Document20]
 DocumentPath=14-Counter74LS192.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-14
 AnnotateScope=All
-AnnotateOrder=31
+AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -379,12 +379,12 @@ DocumentUniqueId=QONXNMDD
 
 [Document21]
 DocumentPath=15-DistanceSRF05.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-15
 AnnotateScope=All
-AnnotateOrder=32
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -396,12 +396,12 @@ DocumentUniqueId=CUETUJQX
 
 [Document22]
 DocumentPath=16-BitSW.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-16
 AnnotateScope=All
-AnnotateOrder=33
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -413,12 +413,12 @@ DocumentUniqueId=IMTTVTUC
 
 [Document23]
 DocumentPath=16-BitSWStatusLed.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-16
 AnnotateScope=All
-AnnotateOrder=34
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -430,12 +430,12 @@ DocumentUniqueId=STTUMDGD
 
 [Document24]
 DocumentPath=17-Led.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-17
 AnnotateScope=All
-AnnotateOrder=35
+AnnotateOrder=23
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -447,12 +447,12 @@ DocumentUniqueId=WUSKBUQI
 
 [Document25]
 DocumentPath=19-CPLD.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-19
 AnnotateScope=All
-AnnotateOrder=37
+AnnotateOrder=25
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -466,10 +466,10 @@ DocumentUniqueId=VTCVOKNW
 DocumentPath=18-Led7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=-18
 AnnotateScope=All
-AnnotateOrder=36
+AnnotateOrder=24
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -480,6 +480,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WYHXBDJP
 
 [Document27]
+DocumentPath=KitKTS.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
 DocumentPath=KitKTS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,41 +511,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LXLWUMEP
-
-[Document28]
-DocumentPath=..\CongtacXoay.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LCOYLRSL
-
-[Document29]
-DocumentPath=..\GuiDung.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UTHCPHNI
+DocumentUniqueId=CNRHNPXL
 
 [Configuration1]
 Name=Default Configuration
@@ -1455,7 +1438,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
